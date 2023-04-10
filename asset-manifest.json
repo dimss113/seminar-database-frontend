@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Seminar-Database-FrontEnd/static/css/main.53bcab0a.css",
+    "main.js": "/Seminar-Database-FrontEnd/static/js/main.57bfd720.js",
+    "index.html": "/Seminar-Database-FrontEnd/index.html",
+    "main.53bcab0a.css.map": "/Seminar-Database-FrontEnd/static/css/main.53bcab0a.css.map",
+    "main.57bfd720.js.map": "/Seminar-Database-FrontEnd/static/js/main.57bfd720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.57bfd720.js"
+  ]
+}
